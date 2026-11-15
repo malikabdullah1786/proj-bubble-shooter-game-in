@@ -1,0 +1,1 @@
+CRITICAL: The DevOps Agent is ready to deploy your application. Please review the deployment plan (Docker/Terraform scripts). Approve to proceed with actual deployment, or provide feedback.
